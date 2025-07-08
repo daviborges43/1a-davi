@@ -16,6 +16,18 @@ p{
 header{
     border-bottom:solid 2px black ;
     font-size: 40px;
-    color: aqua;
+    color: rgb(248, 4, 4);
     padding:20px ;
+}
+
+.chama-texto{
+    margin: 3%;
+}
+
+section{
+    background-color: rgb(45, 172, 62);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
 }
